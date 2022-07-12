@@ -3,13 +3,10 @@
 
 🔭 I’m currently working on @17LIVE<br>💬 Ask me about backend testing
 
-# 📊 GitHub Stats:
+---
+
 ![](https://github-readme-stats.vercel.app/api?username=jiacwjcw&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jiacwjcw&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jiacwjcw&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jiacwjcw&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=jiacwjcw&icon=0&color=0)](https://visitcount.itsvg.in)
