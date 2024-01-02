@@ -1,7 +1,7 @@
 # 💫 About Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jiacw) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jiacwjcw)<br>
 
-🔭 I’m currently working on @17LIVE<br>💬 Ask me about backend testing
+💬 Ask me about backend testing
 
 ---
 
